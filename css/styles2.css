@@ -1,0 +1,24 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin: 0em;
+    padding: 0em;
+
+}
+
+
+h1 {
+    text-align: center;
+    color: lightblue;
+
+}
+
+#hobbies p{
+    text-align: center;
+    color: lightpink;
+}
+
+ul li{
+    text-align: center;
+    list-style: none;
+}
