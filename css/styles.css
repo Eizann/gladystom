@@ -1,0 +1,54 @@
+body {
+  background-color: lightblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header p {
+  text-transform: uppercase;
+  color: purple;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 9em;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: royalblue;
+  text-align: center;
+  letter-spacing: 5px;
+  font-size: 6em;
+}
+
+div {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+div img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+#intro {
+  text-align: center;
+  color: seagreen;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 5em;
+}
+
+h4 {
+  text-align: center;
+  text-shadow: 2px 2px;
+  font-size: 3em;
+}
+
+ul {
+  text-align: center;
+  list-style: none;
+  font-size: 2em;
+}
